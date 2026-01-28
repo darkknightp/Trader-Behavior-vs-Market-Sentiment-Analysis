@@ -77,11 +77,6 @@ The analysis answers three key questions:
 2. **Activity:** How does trading volume change with sentiment?
 3. **Risk:** Do traders use more leverage during Fear or Greed?
 
-### Key Findings
-- [Finding 1: Based on your data]
-- [Finding 2: Based on your data]
-- [Finding 3: Based on your data]
-
 ---
 
 ## 🛠️ Technical Stack
@@ -123,22 +118,12 @@ All charts are high-resolution (300 DPI) and ready for presentations.
 
 ---
 
-## 📧 Contact
-
-**Candidate:** Aswin  
-**Email:** [Your email]  
-**Purpose:** Junior Data Scientist Application - PrimeTrade
-
----
-
 ## 📝 Notes
 
 - All data is publicly available
 - Analysis is reproducible - anyone can run the notebook
-- Code is beginner-friendly with clear comments
-- Focus on practical insights, not complex algorithms
 
 ---
 
-**Last Updated:** January 2025  
+**Last Updated:** January 2026  
 **Status:** Complete ✅
